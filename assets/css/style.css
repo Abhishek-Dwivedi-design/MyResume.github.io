@@ -559,7 +559,7 @@ section {
 }
 .buttonresume
 {
-  position: relative;
+  position: absolute;
   margin-left: 400px;
 }
 
